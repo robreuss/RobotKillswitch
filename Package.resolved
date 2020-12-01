@@ -1,0 +1,79 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Socket",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueSocket.git",
+        "state": {
+          "branch": null,
+          "revision": "a40b405bdf32bc853307dd5dee8d00636e394013",
+          "version": "1.0.44"
+        }
+      },
+      {
+        "package": "Cdns_sd",
+        "repositoryURL": "https://github.com/Bouke/Cdns_sd.git",
+        "state": {
+          "branch": null,
+          "revision": "3fcf5956ede714baae95cbf530e90ef3439451c9",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "ElementalController",
+        "repositoryURL": "https://github.com/robreuss/ElementalController.git",
+        "state": {
+          "branch": "develop",
+          "revision": "3ad071abab2a050bb7f6b4c682cee47fb1225894",
+          "version": null
+        }
+      },
+      {
+        "package": "NetService",
+        "repositoryURL": "https://github.com/Bouke/NetService.git",
+        "state": {
+          "branch": null,
+          "revision": "7181540cd87f59efacba3e5b3ef0c3b27d54f309",
+          "version": "0.5.0"
+        }
+      },
+      {
+        "package": "PCA9685",
+        "repositoryURL": "https://github.com/robreuss/PCA9685.git",
+        "state": {
+          "branch": null,
+          "revision": "ad9f1c74a0433c15ddd80fc6cf1832ad95c3402a",
+          "version": "2.0.6"
+        }
+      },
+      {
+        "package": "SingleBoard",
+        "repositoryURL": "https://github.com/Kaiede/SingleBoard.git",
+        "state": {
+          "branch": null,
+          "revision": "23ca6b553efd156d04ed73374eb756647e879129",
+          "version": "0.2.3"
+        }
+      },
+      {
+        "package": "SwiftPM",
+        "repositoryURL": "https://github.com/apple/swift-package-manager.git",
+        "state": {
+          "branch": null,
+          "revision": "235aacc514cb81a6881364b0fedcb3dd083228f3",
+          "version": "0.3.0"
+        }
+      },
+      {
+        "package": "SwiftyGPIO",
+        "repositoryURL": "https://github.com/Kaiede/SwiftyGPIO.git",
+        "state": {
+          "branch": null,
+          "revision": "acb8700882d1ec15ab8a30ff6a96e5287ea945ea",
+          "version": "1.0.10"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
